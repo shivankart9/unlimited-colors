@@ -1,0 +1,30 @@
+body {
+    background-color: #212121;
+    color: aliceblue;
+    display:flex;
+    height:100vh;
+    justify-content: center;
+    align-items: center;
+    flex-direction:column;
+}
+
+#heading{
+    background-color: pink;
+    color:black;
+    border-radius: 10px;
+    padding: 20px 30px;
+}
+
+#start{
+    padding: 20px 30px;
+    background-color: aqua;
+    color: black;
+    border-radius: 10px;
+}
+
+#stop{
+    padding: 20px 30px;
+    background-color: cadetblue;
+    color:black;
+    border-radius: 10px;
+}
